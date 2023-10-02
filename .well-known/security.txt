@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:me@corite.dev
+Expires: 3000-01-01T00:00:00.000Z
+Encryption: https://corite.dev/11060C35BD3199736A3B831FDB3E3491B63C743C.asc
+Preferred-Languages: en, de
+Canonical: https://corite.dev/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEEQYMNb0xmXNqO4Mf2z40kbY8dDwFAmQtsUUACgkQ2z40kbY8
+dDyKYA/9F8ZihV6rjOiduOF8BTlWmx4kIjwIQY8d2ZLKw483ai5c4svHGMa3BMVZ
+F+Z+neYJso1hATJtTU/UPWj/gaN32NbGaY8vkVbYopl5WjyCY88IOvsWPZujOl1n
+esRGujvhZqDC6Ql1j8iGm0LYpA8Td6V4RMcGfalM16uyKzcGaRFGzUCwvO0CFdjf
+XPwdFpSJ/R+q++89N1fjWpta+nZSE27fTVzCK4VQaJAUlbTPYjgw65RZL6ReM7Ol
+lHsY81bWsTMqYQKr+yG8ao6DQe4aih47D201JmqbLFBP2DNeZosW6l2WcfCRpNB6
+B578iS5eAvXdl/hInKuUOhXevbPO11AYVVluWerqcegiGeg3YPHd/bT/yl1EK9MP
+iTyxximeyP+f2Uj3igBnTVR9Pk0BdPlVvKwK+kAL1oc8/KIORxWcHYy89pAaeAYZ
+wPfmk4pbBYSxXtyUgdifmxvmhq42B7UwjeZwXSNFSOcU8LY6CDJJK1AxPbMP3PKk
+XehCJmir9pdwtilIuuNIFHzvMSKMVoIKSTmYwxzsKaa0DwldZzgCWDv60XRggdZ0
+oTLSXroCks66Ajlff+8Tes+K9PmuilQY5ld8SDi8BJivbQl+vlSUmNtXl3RBeI9t
+UcBViCA07EVrYfvbZ7axN+zCpcxYtIEnHaBPdqxhs7saR96hxRc=
+=2eZe
+-----END PGP SIGNATURE-----

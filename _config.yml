@@ -1,0 +1,30 @@
+locale: "en-US"
+title: Corite's Homepage
+description: >-
+  This is my personal website, powered by jekyll.
+logo: /assets/images/cactus.png
+include: [".well-known"]
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-include-cache
+atom_feed:
+  hide: true
+
+# Site Author
+author:
+  name             : Christian
+  avatar           : /assets/images/cactus.png
+  bio              : >-
+    🧑‍🎓 computer science student @ FSU Jena -- 👨‍💻 backend developer (mostly Java)
+  location         : Jena, Germany
+  email            : me@corite.dev
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/corite"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://det.social/@corite"
