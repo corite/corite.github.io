@@ -25,6 +25,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/corite"
-    - label: "Mastodon"
+    - label: "Fedi"
       icon: "fab fa-fw fa-mastodon"
       url: "https://is.corite.dev/@me"
