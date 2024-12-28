@@ -15,11 +15,11 @@ atom_feed:
 
 # Site Author
 author:
-  name             : Christian
+  name             : Christian (he/him)
   avatar           : /assets/images/cactus.png
   bio              : >-
-    🧑‍🎓 computer science student @ FSU Jena -- 👨‍💻 backend developer (mostly Java)
-  location         : Jena, Germany
+    🧑‍🎓 computer science student @ TU Berlin -- 👨‍💻 backend developer (mostly Java)
+  location         : Berlin, Germany
   email            : me@corite.dev
   links:
     - label: "GitHub"
@@ -27,4 +27,4 @@ author:
       url: "https://github.com/corite"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://det.social/@corite"
+      url: "https://is.corite.dev/@me"

@@ -3,6 +3,13 @@ layout: single
 author_profile: true
 ---
 
-Hi, thanks for visiting my page! I am a computer science student at FSU Jena interested mostly in technical topics such as OS design and computer architectures, but I am also curious about programming language design and compilation/interpretation.
+Hi, thanks for visiting my page! I am a computer science student at TU Berlin. Some topics I like working with / learning about (in no particular order):
 
-I am passionate about software development, currently I mostly write Java but I want to get more into Rust and C(++) in the future. 
+- OS kernel stuff (io and concurrency in particular)
+- programming languages
+- compilers, interpreters and everything in between
+- Java (or more specifically JVM internals)
+- Kubernetes
+- Security & Exploits
+
+I also occasionally attend CCC events and will probably be happy if you talk to me ^^. Apart from tech stuff I really like to read novels and watch movies and TV shows.
