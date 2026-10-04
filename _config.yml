@@ -3,10 +3,8 @@ title: Corite's Homepage
 description: >-
   This is my personal website, powered by jekyll.
 logo: /assets/images/cactus.png
-include: [".well-known"]
-
 # Build settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes@4.28.1
 minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
